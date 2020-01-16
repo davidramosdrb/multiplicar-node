@@ -1,0 +1,14 @@
+{
+  "name": "basico",
+  "version": "1.0.0",
+  "description": "Este es una aplicacion de linea de comando",
+  "main": "BasesNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Ramos Buritica",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.0.2"
+  }
+}
